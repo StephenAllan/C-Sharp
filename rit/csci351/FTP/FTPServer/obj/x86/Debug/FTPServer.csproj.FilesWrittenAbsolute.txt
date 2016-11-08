@@ -1,5 +1,0 @@
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPServer/bin/Debug/FTPServer.exe.mdb
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPServer/bin/Debug/FTPServer.exe
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPServer/obj/x86/Debug/FTPServer.exe
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPServer/obj/x86/Debug/FTPServer.exe.mdb

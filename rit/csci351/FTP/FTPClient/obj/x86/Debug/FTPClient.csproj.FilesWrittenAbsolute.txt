@@ -1,5 +1,0 @@
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPClient/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPClient/bin/Debug/FTPClient.exe.mdb
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPClient/bin/Debug/FTPClient.exe
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPClient/obj/x86/Debug/FTPClient.exe
-/home/swa/programfiles/monodevelop/rit/csci351/FTP/FTPClient/obj/x86/Debug/FTPClient.exe.mdb
