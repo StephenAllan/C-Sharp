@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPClient", "FTPClient\FTPClient.csproj", "{3AE32AB8-259C-4A50-B7A6-D5F73CCAD0D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPServer", "FTPServer\FTPServer.csproj", "{FB51A758-299A-4737-8B9F-FA003FC37CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE32AB8-259C-4A50-B7A6-D5F73CCAD0D6}.Debug|x86.ActiveCfg = Debug|x86
+		{3AE32AB8-259C-4A50-B7A6-D5F73CCAD0D6}.Debug|x86.Build.0 = Debug|x86
+		{3AE32AB8-259C-4A50-B7A6-D5F73CCAD0D6}.Release|x86.ActiveCfg = Release|x86
+		{3AE32AB8-259C-4A50-B7A6-D5F73CCAD0D6}.Release|x86.Build.0 = Release|x86
+		{FB51A758-299A-4737-8B9F-FA003FC37CFE}.Debug|x86.ActiveCfg = Debug|x86
+		{FB51A758-299A-4737-8B9F-FA003FC37CFE}.Debug|x86.Build.0 = Debug|x86
+		{FB51A758-299A-4737-8B9F-FA003FC37CFE}.Release|x86.ActiveCfg = Release|x86
+		{FB51A758-299A-4737-8B9F-FA003FC37CFE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
